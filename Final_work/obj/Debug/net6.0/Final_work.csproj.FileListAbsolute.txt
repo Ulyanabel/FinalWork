@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\FinalWork\Final_work\bin\Debug\net6.0\Final_work.exe
+C:\Users\Dell\Desktop\FinalWork\Final_work\bin\Debug\net6.0\Final_work.deps.json
+C:\Users\Dell\Desktop\FinalWork\Final_work\bin\Debug\net6.0\Final_work.runtimeconfig.json
+C:\Users\Dell\Desktop\FinalWork\Final_work\bin\Debug\net6.0\Final_work.dll
+C:\Users\Dell\Desktop\FinalWork\Final_work\bin\Debug\net6.0\Final_work.pdb
+C:\Users\Dell\Desktop\FinalWork\Final_work\obj\Debug\net6.0\Final_work.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\FinalWork\Final_work\obj\Debug\net6.0\Final_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\FinalWork\Final_work\obj\Debug\net6.0\Final_work.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\FinalWork\Final_work\obj\Debug\net6.0\Final_work.AssemblyInfo.cs
+C:\Users\Dell\Desktop\FinalWork\Final_work\obj\Debug\net6.0\Final_work.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\FinalWork\Final_work\obj\Debug\net6.0\Final_work.dll
+C:\Users\Dell\Desktop\FinalWork\Final_work\obj\Debug\net6.0\refint\Final_work.dll
+C:\Users\Dell\Desktop\FinalWork\Final_work\obj\Debug\net6.0\Final_work.pdb
+C:\Users\Dell\Desktop\FinalWork\Final_work\obj\Debug\net6.0\Final_work.genruntimeconfig.cache
+C:\Users\Dell\Desktop\FinalWork\Final_work\obj\Debug\net6.0\ref\Final_work.dll
