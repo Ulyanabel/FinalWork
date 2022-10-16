@@ -6,16 +6,16 @@
 //  ["1234", "1567", "-2", "computer science"] -> ["-2"]
 //  ["Russia", "Denmark", "Kazan"] -> []
 
-string[] arrayFirst = new string[ ] { "1234", "1567", "-2", "computer science"};
-string[] arraySecond = new string[arrayFirst.Length];
+string[] arrayStart = new string[ ] { "1234", "1567", "-2", "computer science"};
+string[] arrayEnd = new string[arrayStart.Length];
 int count = 0;
-for (int i = 0; i < arrayFirst.Length; i++)
+for (int i = 0; i < arrayStart.Length; i++)
 {
-    if (arrayFirst[i].Length <= 3)
+    if (arrayStart[i].Length <= 3)
     {
-        arraySecond[count] = arrayFirst[i];
+        arrayEnd[count] = arrayStart[i];
         count++;
     }
 }
-Console.WriteLine($"Заданный массив: [{string.Join(", ", arrayFirst)}]");
-Console.WriteLine($"Полученный массив: [{string.Join(" ", arraySecond)}]");
+Console.WriteLine($"Заданный массив: [{string.Join(", ", arrayStart)}]");
+Console.WriteLine($"Полученный массив: [{string.Join(" ", arrayEnd)}]");
